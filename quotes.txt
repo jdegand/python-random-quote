@@ -12,3 +12,7 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+ABC - Always Be Closing
+Just Win Baby
+AIDA- Attention Interest Decision Action
+TCB - Takin' Care of Business
